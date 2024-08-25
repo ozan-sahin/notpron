@@ -466,4 +466,6 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
 
 ## [Level Alpha](https://notpron.com/notpron/jerk2/greece/alpha.php)
 
+1. Same as all beginnings; go to next letter iin greek alphabet: "beta.php"
 
+## [Level Beta](https://notpron.com/notpron/jerk2/greece/beta.php)

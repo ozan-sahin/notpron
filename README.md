@@ -451,4 +451,17 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
 
 ## [Level -42](https://notpron.com/notpron/jerk2/fell.php)
 
+1. In source there's a hint of horse. You should move from start to end with horse moves in chess.
+2. You will get "stick"
+3. Go to "stick.php"
+
+## [Level -43](https://notpron.com/notpron/jerk2/stick.php)
+
+1. Go to Notpron Forum and find the level foto there
+2. In file data, you will find a number
+3. Google it and find the owner of that patent
+4. Go to https://notpron.com/notpron/jerk2/mrow/bell.php
+
+## [Level -44](https://notpron.com/notpron/jerk2/mrow/bell.php)
+
 

@@ -403,3 +403,27 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
    - Pass: turkey
 
 ## [Level 58](http://www.deathball.net/notpron/love/wrongroad.htm)
+
+1. Go to "/index.htm" but stop loading of the page immediately
+2. Check the source and go to [verse.htm](https://deathball.net/notpron/love/verse.htm)
+
+## [Level 59](https://deathball.net/notpron/love/verse.htm)
+
+1. In my head there's only you,
+   the one that made my dreams come true
+   when you talk not a__
+   you make my poor __
+   you're the one i'll always love
+   & be forever dream of
+2. Go to "money.htm"
+
+## [Level 60](https://deathball.net/notpron/love/money.htm)
+
+1. You hear "Für Elise" by Beethoven
+2. But who was this piece actually composed for? Google it!
+3. Go to "therese.htm"
+
+##[Level 61](http://www.deathball.net/notpron/love/main.php)
+
+
+

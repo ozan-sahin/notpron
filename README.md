@@ -1,2 +1,2 @@
-# notpron
-Worlds Hardest Riddle Walkthrough
+# notpron Walkthrough
+The Hardest Riddle Available On The Internet

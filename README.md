@@ -423,7 +423,7 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
 2. But who was this piece actually composed for? Google it!
 3. Go to "therese.htm"
 
-##[Level 61](http://www.deathball.net/notpron/love/main.php)
+## [Level 61](http://www.deathball.net/notpron/love/main.php)
 
 1. username: christine83 - password: pink
 2. E-mail was sent on Thursday, November 11, 2004 04:19 AM
@@ -431,7 +431,7 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
 4. Use paint to fill tool to fill middle with any light color
 5. Go to usurp.htm
 
-##[Level 62](https://www.deathball.net/notpron/love/usurp.htm)
+## [Level 62](https://www.deathball.net/notpron/love/usurp.htm)
 
 
 

@@ -435,7 +435,7 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
 
 ....
 
-## [Level -41](https://notpron.com/notpron/jerk2/snoozy.php)
+## [Level -40](https://notpron.com/notpron/jerk2/snoozy.php)
 
 1. Go to "phone.wav" and download the file
 2. Open the wave file in a audio editor and slow down and insert silence between frequencies
@@ -443,6 +443,12 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
 4. Finally convert numbers into letters
 5. Go to "https://notpron.com/notpron/jerk2/blackout.php"
 
+## [Level -41](https://notpron.com/notpron/jerk2/blackout.php)
 
+1. Write the factorials and powers in open form.
+2. They create letter shapes.
+3. Go to "fell.php"
+
+## [Level -42](https://notpron.com/notpron/jerk2/fell.php)
 
 

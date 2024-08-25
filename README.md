@@ -433,6 +433,16 @@ Note: There is a random "h" on the lower left of the image. Maybe something for 
 
 ## [Level 62](https://www.deathball.net/notpron/love/usurp.htm)
 
+....
+
+## [Level -41](https://notpron.com/notpron/jerk2/snoozy.php)
+
+1. Go to "phone.wav" and download the file
+2. Open the wave file in a audio editor and slow down and insert silence between frequencies
+3. Reverse it and use a DTMF converter to convert freq into numbers
+4. Finally convert numbers into letters
+5. Go to "https://notpron.com/notpron/jerk2/blackout.php"
+
 
 
 
